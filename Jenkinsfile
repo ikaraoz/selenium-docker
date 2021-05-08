@@ -27,7 +27,7 @@
 //         }
 //     }
 // }
-This below one is for linux
+//This below one is for linux
 pipeline {
     agent none
     stages {
